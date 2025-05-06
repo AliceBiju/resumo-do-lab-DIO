@@ -1,0 +1,10 @@
+Neste projeto do lab 2, irei explicar p que aprendi nas aulas anteriores.
+--Os beneficios da computação em nuvem com o azure: Escalabilidade e elasticidade (pague conforme for usar), confiabilidade, previsibilidade, segurança,
+governança e gerenciabilidade (Faça do seu jeito).
+-Foi tambem mencionado o SLA e seus respectivos tempos de inatividade por semana, mês e ano (quanto mais 9's menos tempo e vice-versa).
+------------------------------------------
+Criação da maquina virtual no azure (meus relatos):
+- Ao clicar para criar uma maquina virtual no azure, você configura ao seu modo o nome, zonas de disponibilidade, imagem (windows, linux, etc), tipo de segurança
+portas de entrada e etc. e ao revisar todas as configurações, apertar em criar.
+-Ao implementar a maquina virtual é criado os recursos, ao carregar todos os recursos voce tem acesso total a sua maquina virtual e informações,
+podendo fazer alterações, excluir e usá-la como quiser.
